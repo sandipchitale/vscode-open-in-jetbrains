@@ -2,7 +2,7 @@
   "name": "vscode-open-in-jetbrains",
   "displayName": "Open files/folders in JetBrains",
   "description": "Open selected file or folder in JetBrains IDE",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "SEE LICENSE IN LICENSE",
     "icon": "images/icon.png",
     "publisher": "sandipchitale",
@@ -30,15 +30,15 @@
     "commands": [
       {
         "command": "vscode-open-in-jetbrains.open-selected-file",
-        "title": "Open file in JetBrains IDE"
+        "title": "Open in JetBrains IDE"
       },
       {
         "command": "vscode-open-in-jetbrains.open-edited-file",
-        "title": "Open edited file in JetBrains IDE"
+        "title": "Open in JetBrains IDE"
       },
       {
         "command": "vscode-open-in-jetbrains.open-workspace-folder",
-        "title": "Open workspace folder in JetBrains IDE"
+        "title": "Open Workspace folder in JetBrains IDE"
       }
     ],
     "menus": {
