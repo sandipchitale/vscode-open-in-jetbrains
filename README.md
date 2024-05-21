@@ -8,6 +8,11 @@ Open files/folders in JetBrains
 - Open edited file in JetBrains IDE
 - Open Workspace folder in JetBrains IDE
 
+## JetBrains plugin
+The inverse JetBrains plugin is here:
+
+[Open in VS Code](https://plugins.jetbrains.com/plugin/22710-open-in-vs-code)
+
 ## Requirements
 
 Make sure the following on your PATH:
